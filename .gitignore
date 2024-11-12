@@ -7,9 +7,9 @@
 # Build directories
 /dist/
 /build/
-/bin
+bin
 /include
-/lib
+lib
 
 # Mac system files
 .DS_Store
